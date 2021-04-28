@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/00/30/63/43/240_F_30634301_0BnwviZ9rWihaxVyCzoOBRYwy4Y5zTQp.jpg);
+    background-size: 100%;
+}
+
+#MP {
+    border-radius: 50%;
+    width: 15rem;
+    height: 230px;
+    margin-top: 50px;
+}
+
+.main-element {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+#MN {
+    font-size: 20px;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+
+hr {
+    width: 1000px;
+    color: white;
+}
+
+.gh-img {
+    height: 80px;
+}
+
+.e-mail {
+    height: 80px;
+    padding-right: 50px;
+    color: white;
+}
+
+.total {
+    margin-top: 60px;
+}
